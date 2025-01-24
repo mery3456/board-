@@ -1,0 +1,1 @@
+Esta es la carpeta static donde vamos a añadir las funcionalidades de bootstrap

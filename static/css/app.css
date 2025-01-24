@@ -1,0 +1,16 @@
+.navbar-brand {
+  font-family: 'Peralta', cursive;
+}
+
+body {
+  background-image: url(../img/fondo2.jpg);
+}
+
+.custom-text {
+  color: #0a504c;
+}
+
+.editor-toolbar{
+  background-color: rgb(7, 126, 126);
+  
+}

@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/dark-blue-background-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector-3521325582.jpg);
+}
+
+.logo {
+    font-family: 'Peralta', cursive;
+}
+
+.logo a {
+    color: rgba(0, 224, 168, 0.9);
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}
